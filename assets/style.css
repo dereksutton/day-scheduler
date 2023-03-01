@@ -12,15 +12,29 @@ textarea {
   padding: 10px;
 }
 
+.time-banner {
+  background-color: white;
+  color: black;
+  border-bottom: 10px solid black;
+  text-align: center;
+}
+
 .description {
   white-space: pre-wrap;
 }
 
+.planner-container {
+  margin-bottom: 3%;
+}
+
 .time-block {
   border-radius: 15px;
+  align-self: center;
 }
 
 .row {
+  height: 7%;
+  white-space: pre-wrap;
   border-top: 1px solid white;
 }
 
