@@ -1,5 +1,4 @@
 # day-scheduler
-<<<<<<< HEAD
 
 ## Objective
 Build a simple one-page app to save a work schedule for a typical 9am - 5pm day. Each time block will be displayed in a different color, depending whether it's a past, present, or future event. The application uses the Day.JS third-party API for fetching and displaying the date/time.
@@ -28,11 +27,8 @@ Build a simple one-page app to save a work schedule for a typical 9am - 5pm day.
 
 ## Web Page
 ![Day Scheduler](./assets/deployed-page.png)
-[Deployed Application]()
+[Deployed Application](https://dereksutton.github.io/day-scheduler/)
 
 ## Contribution
 * All starter code provided by Georgia Tech Coding Bootcamp.
 * Planner functionality built by [Derek Sutton](https://github.com/dereksutton)
-=======
-GT Coding Bootcamp | Module 5 | Weekday Scheduler
->>>>>>> 2d463c20913feaff0cc5e5021d2f80e7517be50e
